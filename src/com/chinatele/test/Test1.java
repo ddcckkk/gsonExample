@@ -23,6 +23,7 @@ public class Test1 {
 		//useOfGeneric();
 	}
 
+	
 	private void useOfGeneric() {
 		// 泛型的使用   http://www.jianshu.com/p/e740196225a4
 		Gson gson = new Gson();
